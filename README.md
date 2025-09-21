@@ -19,9 +19,7 @@
 - Seminarios I y II de Apoyo para Preparación de Tesis
 
 ### Tercero:
-
 - [OWASP](https://devguide.owasp.org/)
-
 - OWASP Threat Dragon
 - OWASP dependency-check
 - Trivy
