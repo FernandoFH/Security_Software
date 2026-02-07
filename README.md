@@ -2,32 +2,20 @@
 
 - [Cloud Goat](https://github.com/FernandoFH/cloudgoat)
 
-### Primer:
-- Ejes Temáticos de la Seguridad
-- Seguridad en Redes I
-- Criptografía I
-- Seguridad en Sistemas Operativos y Aplicaciones
-- Gestión Estratégica de la Seguridad I
-- Documentación y Proyectos de Seguridad
-- Seguridad en Redes II
-- Comportamiento Organizacional
-- Marco Legal, Ética y Privacidad
+____
+| Primer   | Segundo    | Tercero | 
+| --------- | -------- | ------------ | 
+|Ejes Temáticos de la Seguridad | Criptografía II |  [OWASP](https://devguide.owasp.org/)  |  
+| Seguridad en Redes I| Gestión Estratégica de la Seguridad II |  OWASP Threat Dragon  |  
+|  Criptografía I | Auditoría |  OWASP dependency-check    |  
+| Seguridad en Sistemas Operativos y Aplicaciones    | Informática Forense y Delitos Informáticos | Trivy |  
+| Gestión Estratégica de la Seguridad I  | Seminarios I y II de Apoyo para Preparación de Tesis | Semgrep     |  
+| Documentación y Proyectos de Seguridad |    |  Falco    |  
+| Seguridad en Redes II|   |        |  
+| Comportamiento Organizacional|  |        |  
+| Marco Legal, Ética y Privacidad  |   |       |  
 
-### Segundo:
-- Criptografía II
-- Gestión Estratégica de la Seguridad II=
-- Auditoría
-- Informática Forense y Delitos Informáticos
-- Seminarios I y II de Apoyo para Preparación de Tesis
-
-### Tercero:
-- [OWASP](https://devguide.owasp.org/)
-- OWASP Threat Dragon
-- OWASP dependency-check
-- Trivy
-- Semgrep
-- Falco
-
+_______
 
 | INGENIERIA INVERSA     | ESTEGANOGRAFIA    | CRIPTOGRAFÍA | TRÁFICO Y REDES    | ANÁLISIS FORENSE |
 | ---------------------- | ----------------- | ------------ | ------------------ | ----------------- |
